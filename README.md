@@ -1,14 +1,6 @@
 # Hi 👋, I'm Abhishek Kocharagi  
-🎓 Computer Science Engineering Student (2022–2026) at Jain College of Engineering, Belagavi  
+🎓 **Computer Science Engineering Student (2022–2026)** 
 💻 Aspiring Software Developer | Web Developer | Tech Enthusiast  
-
----
-
-### 🧠 About Me  
-I’m a motivated Computer Science student passionate about technology and innovation.  
-I love learning new concepts, solving real-world problems, and building impactful projects.  
-My academic journey has strengthened my problem-solving and critical-thinking skills,  
-and I’m eager to grow professionally through hands-on experience.  
 
 ---
 
@@ -39,7 +31,7 @@ and I’m eager to grow professionally through hands-on experience.
 
 ### 🌐 Connect with Me  
 📧 **Email:** [abhishekkocharagi@gmail.com](mailto:abhishekkocharagi@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/abhishekkocharagi](#) *(Add your actual link)*  
+💼 **LinkedIn:** [linkedin.com/in/abhishekkocharagi](https://www.linkedin.com/in/abhishek-kocharagi/)
 💻 **GitHub:** [github.com/Abhishekkocharagi](https://github.com/Abhishekkocharagi)  
 
 ---
@@ -47,9 +39,6 @@ and I’m eager to grow professionally through hands-on experience.
 ### 🗣️ Languages I Speak  
 English | Kannada | Hindi  
 
----
-
-### 🎯 Hobbies  
-Cricket 🏏 | Solving Problems 💡 | Logic & Puzzle Games 🧩  
+--- 
 
 ⭐ *From [AbhishekKocharagi](https://github.com/Abhishekkocharagi)*
