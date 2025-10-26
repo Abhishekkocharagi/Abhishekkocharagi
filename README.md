@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Abhishek Kocharagi  
+**Computer Science Undergraduate | Web Developer | Tech Enthusiast**
 
-<!--
-**Abhishekkocharagi/Abhishekkocharagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about creating interactive web applications, solving problems, and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills
+- **Languages:** Java | Python | C | JavaScript  
+- **Web Development:** HTML | CSS | React.js | Node.js  
+- **Databases:** MySQL | MongoDB  
+- **Tools & Platforms:** Git | GitHub | VS Code | Netlify  
+
+---
+
+### 🚀 Featured Projects
+- **Interactive Portfolio** – Responsive portfolio website with animations & contact form.  
+- **Event Management App** – Django web app with secure authentication & QR ticketing.  
+- **City Portal** – Dynamic service management portal with secure login & CRUD features.  
+
+---
+
+### 🎓 Certifications
+- AWS Cloud Practitioner Essentials – *AWS Academy*  
+- Python & Java Programming – *CodingNinjas / HackerRank*  
+
+---
+
+### 📫 Connect with Me  
+🌐 [Portfolio](https://your-portfolio-link.com)  
+💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+💻 [GitHub](https://github.com/AbhishekKocharagi)  
+📧 [Email](mailto:youremail@example.com)
+
+---
+⭐ From [AbhishekKocharagi](https://github.com/AbhishekKocharagi)
