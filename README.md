@@ -31,14 +31,9 @@
 
 ### 🌐 Connect with Me  
 📧 **Email:** [abhishekkocharagi@gmail.com](mailto:abhishekkocharagi@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/abhishekkocharagi](https://www.linkedin.com/in/abhishek-kocharagi/)
+💼 **LinkedIn:** [linkedin.com/in/abhishekkocharagi](https://www.linkedin.com/in/abhishek-kocharagi/)  
 💻 **GitHub:** [github.com/Abhishekkocharagi](https://github.com/Abhishekkocharagi)  
 
 ---
-
-### 🗣️ Languages I Speak  
-English | Kannada | Hindi  
-
---- 
 
 ⭐ *From [AbhishekKocharagi](https://github.com/Abhishekkocharagi)*
