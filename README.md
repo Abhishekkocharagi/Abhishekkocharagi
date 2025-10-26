@@ -1,5 +1,5 @@
 # Hi 👋, I'm Abhishek Kocharagi  
-🎓 **Computer Science Engineering Student (2022–2026)** 
+🎓 **Computer Science Engineering Student (2022–2026)** |
 💻 Aspiring Software Developer | Web Developer | Tech Enthusiast  
 
 ---
