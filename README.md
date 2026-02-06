@@ -19,7 +19,7 @@
   Developed a responsive portfolio website with animations, smooth navigation, and a contact form using HTML, CSS, JS, and React.  
 
 - **[SARKARI MINDS]([https://github.com/Abhishekkocharagi](https://github.com/Abhishekkocharagi/SARAKARIMINDS.git))**  
-  A collaborative platform for government exam aspirants to connect, share knowledge, and grow together..  
+  A collaborative platform for government exam aspirants to connect, share knowledge, and grow together.  
 
 ---
 
