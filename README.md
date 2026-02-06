@@ -18,8 +18,8 @@
 - **[Interactive Portfolio](https://github.com/Abhishekkocharagi/Interactive_portfolio)**  
   Developed a responsive portfolio website with animations, smooth navigation, and a contact form using HTML, CSS, JS, and React.  
 
-- **[Zerodha-like Stock Market Clone](https://github.com/Abhishekkocharagi)**  
-  Created a full-stack trading simulation platform (MERN) allowing users to view stock prices, manage portfolios, and simulate buy/sell orders.  
+- **[SARKARI MINDS](https://github.com/Abhishekkocharagi)**  
+  A collaborative platform for government exam aspirants to connect, share knowledge, and grow together..  
 
 ---
 
